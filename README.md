@@ -33,4 +33,4 @@ How to monitor website performance and identify trends in clicks, impressions, C
 ---
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](Google-search-dashboard.png)
